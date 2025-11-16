@@ -2,8 +2,8 @@
 
 Effective date: September 20, 2025
 
-MotyBase ("the Game", "we", "our", "us") is committed to protecting your privacy.  
-This Privacy Policy explains how we handle information when you use our Game.
+MotyBase ("the App", "we", "our", "us") is committed to protecting your privacy.  
+This Privacy Policy explains how we handle information when you use our App.
 
 ---
 
@@ -29,8 +29,8 @@ We do **not** collect or store personally identifiable information (such as your
 
 We use the collected information to:
 
-- Improve game performance and stability.
-- Understand how players interact with the Game.
+- Improve app performance and stability.
+- Understand how players interact with the App.
 - Identify and fix crashes, bugs, and errors.
 
 ---
@@ -50,7 +50,7 @@ These services may collect data as described in their respective privacy policie
 
 ## Data Retention
 
-We retain analytics and crash data for as long as necessary to improve the Game.  
+We retain analytics and crash data for as long as necessary to improve the App.  
 No personally identifiable data is retained.
 
 ---
